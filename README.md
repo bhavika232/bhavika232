@@ -5,7 +5,7 @@ I enjoy understanding how things work under the hood and building projects that 
 
 ---
 
-## 💻 **What I’m Working On**  
+## 🌱 **What I’m Working On**  
 - Exploring full-stack development  
 - Building interactive projects (UI + logic)  
 - Strengthening Java and core programming concepts  
