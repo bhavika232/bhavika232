@@ -21,7 +21,7 @@ My first real attempt at connecting a frontend to a backend properly. Learned a 
 
 ## what I'm working with
 
-Java · JavaScript · HTML/CSS · Git
+Python · Git · Java · JavaScript · HTML/CSS 
 
 ---
 
