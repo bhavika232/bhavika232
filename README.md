@@ -1,39 +1,30 @@
-# Hi, I’m Bhavika 👋  
+# hey, i'm Bhavika 👋
 
-**Computer Science student at Manipal Institute of Technology**  
-I enjoy understanding how things work under the hood and building projects that are both functional and interactive.
+CS student at MIT Manipal, going into my third year.
 
----
-
-## 🌱 **What I’m Working On**  
-- Exploring full-stack development  
-- Building interactive projects (UI + logic)  
-- Strengthening Java and core programming concepts  
+I like figuring out how things actually work, not just getting them to run, but understanding *why* they run. Most of my projects start with "what if I tried..." and go from there.
 
 ---
 
-## 🚀 **Projects**  
+## stuff I've built
 
-- 🎟️ **Responsive Seat Selector**  
-  A movie seat booking interface with real-time pricing and dynamic seat selection.  
+**Responsive Seat Selector**  
+Movie seat booking UI — handles real-time pricing updates and seat state. Mostly a frontend exercise but it got surprisingly complex once I started tracking seat categories and dynamic totals.
 
-- ✈️ **AirDraw**  
-  A gesture-based drawing application for a Pictionary-style experience using real-time hand tracking.  
+**AirDraw**   
+Gesture-controlled drawing app using hand tracking — basically a Pictionary tool you control with your hands. Built around real-time input processing. Probably the most fun I've had debugging something.
 
-- 📊 **AuraScore**  
-  A full-stack project focused on frontend-backend integration and data handling.  
-
----
-
-## 🛠️ **Tech Stack**  
-- **Java**  
-- **JavaScript**  
-- **HTML, CSS**  
-- **Git & GitHub**  
+**AuraScore**  
+My first real attempt at connecting a frontend to a backend properly. Learned a lot about how data actually flows between the two sides of an app.
 
 ---
 
-## 📈 **Currently**  
-Learning by building, experimenting with ideas, and improving step by step.
+## what I'm working with
+
+Java · JavaScript · HTML/CSS · Git
 
 ---
+
+## right now
+
+Going into third year. Getting more serious about DSA and system design, and trying to actually finish side projects instead of abandoning them halfway through.
