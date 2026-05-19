@@ -6,7 +6,7 @@ I like figuring out how things actually work, not just getting them to run, but 
 
 ---
 
-## What I've built
+## what I've built
 
 **Responsive Seat Selector**  
 Movie seat booking UI — handles real-time pricing updates and seat state. Mostly a frontend exercise but it got surprisingly complex once I started tracking seat categories and dynamic totals.
