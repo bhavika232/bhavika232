@@ -8,7 +8,7 @@ I like approaching projects with curiosity — starting with an idea, experiment
 
 ## Projects
 
-## AirDraw
+### AirDraw
 
 A gesture-controlled drawing application built using hand tracking and real-time computer vision. Designed as an interactive drawing tool controlled entirely through gestures.
 
