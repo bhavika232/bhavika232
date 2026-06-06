@@ -1,30 +1,44 @@
-# hey, i'm Bhavika 👋
+# Hi, I'm Bhavika 👋
 
-CS student at MIT Manipal, going into my third year.
+Computer Science student at MIT, Manipal, entering my third year.
 
-I like figuring out how things actually work, not just getting them to run, but understanding *why* they run. Most of my projects start with "what if I tried..." and go from there.
+I enjoy building projects that help me understand how systems work beyond just implementation. I’m especially interested in computer vision, backend systems, and interactive applications that combine logic with user experience.
 
----
+I like approaching projects with curiosity — starting with an idea, experimenting with it, and using the process to learn how things work under the hood.
 
-## what I've built
+## Projects
 
-**Responsive Seat Selector**  
-Movie seat booking UI — handles real-time pricing updates and seat state. Mostly a frontend exercise but it got surprisingly complex once I started tracking seat categories and dynamic totals.
+### AirDraw
 
-**AirDraw**   
-Gesture-controlled drawing app using hand tracking — basically a Pictionary tool you control with your hands. Built around real-time input processing. Probably the most fun I've had debugging something.
+A gesture-controlled drawing application built using hand tracking and real-time computer vision. Designed as an interactive drawing tool controlled entirely through gestures.
 
-**AuraScore**  
-My first real attempt at connecting a frontend to a backend properly. Learned a lot about how data actually flows between the two sides of an app.
+### Gesture-Controlled Spotify Player
 
----
+A computer vision-based application that enables Spotify control through hand gestures, focused on real-time input processing and interaction design.
 
-## what I'm working with
+### Responsive Seat Selector
 
-Python · Java · JavaScript · HTML/CSS · Git 
+A movie seat booking interface with seat state management, category-based pricing, and dynamic total calculation.
 
----
+### AuraScore
 
-## right now
+A frontend-backend integrated application that helped me develop a stronger understanding of API communication and data flow between systems.
 
-Going into third year. Getting more serious about DSA and system design, and trying to actually finish side projects instead of abandoning them halfway through.
+### Cloud Cost Optimization Project
+
+Worked on analyzing and visualizing cloud cost patterns to better understand infrastructure usage and optimization.
+
+## Tech Stack
+
+**Languages**
+Python · Java · JavaScript · HTML/CSS
+
+**Tools & Technologies**
+Git · Flask · OpenCV · MediaPipe
+
+## Currently Learning
+
+* Data Structures & Algorithms
+* System Design Fundamentals
+* Backend Development
+* Computer Vision
