@@ -2,7 +2,7 @@
 
 Computer Science student at MIT, Manipal, entering my third year.
 
-I enjoy building projects that help me understand how systems work beyond just implementation. I’m especially interested in computer vision, backend systems, and interactive applications that combine logic with user experience.
+I’m particularly interested in computer vision, backend systems, and building interactive applications that combine real-time processing with practical problem solving.
 
 I like approaching projects with curiosity — starting with an idea, experimenting with it, and using the process to learn how things work under the hood.
 
@@ -27,14 +27,13 @@ A computer vision-based application that enables Spotify control through hand ge
 ## Tech Stack
 
 **Languages**
-Python · Java · JavaScript · HTML/CSS
+Python · Java · JavaScript · SQL · C
 
-**Tools & Technologies**
-Git · Flask · OpenCV · MediaPipe
+**Frameworks & Web**
+Django · Flask · FastAPI · React · HTML · CSS
 
-## Currently Learning
+**Libraries**
+NumPy · OpenCV · MediaPipe · scikit-learn
 
-* Data Structures & Algorithms
-* System Design Fundamentals
-* Backend Development
-* Computer Vision
+**Tools & Cloud**
+Git · AWS (EC2, S3, CloudWatch)
