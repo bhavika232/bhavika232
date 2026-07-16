@@ -4,7 +4,7 @@ Computer Science student at MIT, Manipal, entering my third year.
 
 I’m particularly interested in computer vision, backend systems, and building interactive applications that combine real-time processing with practical problem solving.
 
-I like approaching projects with curiosity — starting with an idea, experimenting with it, and using the process to learn how things work under the hood.
+I like approaching projects with curiosity, starting with an idea, experimenting with it, and using the process to learn how things work under the hood.
 
 ## Some of my projects
 
