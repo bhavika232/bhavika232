@@ -1,39 +1,86 @@
-# Hi, I'm Bhavika 👋
+<div align="center">
 
-Computer Science student at MIT, Manipal, entering my third year.
+# hey, i'm bhavika 👋
 
-I’m particularly interested in computer vision, backend systems, and building interactive applications that combine real-time processing with practical problem solving.
+### computer science @ manipal institute of technology
 
-I like approaching projects with curiosity, starting with an idea, experimenting with it, and using the process to learn how things work under the hood.
+building software • learning by building • turning ideas into products
 
-## Some of my projects
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Computer+Vision+Enthusiast;Building+with+Java,+Python+%26+TypeScript;Always+Learning+Something+New" />
 
-### AuraScore
+</div>
 
-A frontend-backend integrated application that helped me develop a stronger understanding of API communication and data flow between systems.
+---
 
-### Cloud Cost Optimization Project
+## about me
 
-Worked on analyzing and visualizing cloud cost patterns to better understand infrastructure usage and optimization.
+- 💻 CS student entering my third year at MIT, Manipal
+- 🌱 Currently learning full-stack development with **Next.js, NestJS & PostgreSQL**
+- 🧠 Interested in backend engineering, computer vision and software architecture
+- 🚀 Building projects to understand how systems work under the hood
+- ☕ Probably debugging something right now
 
-### AirDraw
+---
 
-A gesture-controlled drawing application built using hand tracking and real-time computer vision. Designed as an interactive drawing tool controlled entirely through gestures.
+## featured projects
 
-### Gesture-Controlled Spotify Player
+### 🎤 AuraScore
+AI-powered mock interview platform with frontend-backend integration and API communication.
 
-A computer vision-based application that enables Spotify control through hand gestures, focused on real-time input processing and interaction design.
+### ☁️ CloudOptim
+Cloud cost optimization dashboard built using AWS services and anomaly detection techniques.
 
-## Tech Stack
+### ✍️ AirDraw
+Gesture-controlled virtual drawing application built using OpenCV and MediaPipe.
 
-**Languages**
-Python · Java · JavaScript · SQL · C
+### 🎵 VibePlayer
+Offline Spotify-inspired desktop music player built with Java and JavaFX.
 
-**Frameworks & Web**
-Django · Flask · FastAPI · React · HTML · CSS
+### 🎧 Gesture Spotify Controller
+Control Spotify playback entirely through real-time hand gestures.
 
-**Libraries**
-NumPy · OpenCV · MediaPipe · scikit-learn
+---
 
-**Tools & Cloud**
-Git · AWS (EC2, S3, CloudWatch)
+## tech stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge)
+
+### Databases & APIs
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
+---
+
+<div align="center">
+
+### github stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
