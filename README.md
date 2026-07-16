@@ -6,7 +6,7 @@
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" />
 
 ## ‎ 📓 about me
 
@@ -16,32 +16,44 @@
 - 🚀 I build projects to figure out how things work, not just to get them running
 - ☕ probably debugging something right now
 
-<br/>
+<img src="assets/divider.svg" width="100%" />
 
 ## ‎ 🔖 featured projects
 
-**🎤 AuraScore** — AI-powered mock interview platform, full frontend ↔ backend integration
+> **🎤 AuraScore**
+> AI-powered mock interview platform, full frontend ↔ backend integration
 
-**☁️ CloudOptim** — cloud cost optimization dashboard, AWS + anomaly detection *(Top 20/76, Tech Solstice Hackathon 2026)*
+> **☁️ CloudOptim**
+> Cloud cost optimization dashboard, AWS + anomaly detection — *Top 20/76, Tech Solstice Hackathon 2026*
 
-**✍️ AirDraw** — gesture-controlled virtual drawing app, built with OpenCV + MediaPipe
+> **✍️ AirDraw**
+> Gesture-controlled virtual drawing app, built with OpenCV + MediaPipe
 
-**🎧 Gesture Spotify Controller** — control playback entirely through hand gestures
+> **🎧 Gesture Spotify Controller**
+> Control playback entirely through hand gestures
 
-**🎵 VibePlayer** — offline, Spotify-inspired desktop music player, built with Java + JavaFX
+> **🎵 VibePlayer**
+> Offline, Spotify-inspired desktop music player, built with Java + JavaFX
 
-<br/>
+<img src="assets/divider.svg" width="100%" />
 
 ## ‎ 🧵 tech stack
 
-**Languages** — Java · Python · TypeScript · JavaScript · SQL · C
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,postgres,c,react,nextjs,nestjs,django,flask,git,github,aws&theme=light" />
+</div>
 
-**Frameworks** — React · Next.js · NestJS · Django · Flask · JavaFX
+<img src="assets/divider.svg" width="100%" />
 
-**Data & Tools** — PostgreSQL · TypeORM · Swagger · Git · GitHub · AWS
+## ‎ 📊 github, at a glance
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavika232&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9789F&text_color=6B4F4F&icon_color=F0A8C4&hide_rank=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavika232&layout=compact&hide_border=true&bg_color=00000000&title_color=D9789F&text_color=6B4F4F&langs_count=8" />
+</div>
 
 <br/>
 
 <div align="center">
-<sub>✿ always tinkering with something — check the pinned repos for what's current ✿</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D4&height=100&section=footer&text=✿%20always%20tinkering%20with%20something&fontColor=6B4F4F&fontSize=18&animation=fadeIn" width="100%"/>
 </div>
