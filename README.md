@@ -6,7 +6,9 @@
 
 building software • learning by building • turning ideas into products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Computer+Vision+Enthusiast;Building+with+Java,+Python+%26+TypeScript;Always+Learning+Something+New" />
+src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=18&duration=3200&pause=900&color=D9789F&center=true&vCenter=true&width=600&lines=building+things+to+understand+them;full-stack+%2B+computer+vision+%2B+backend;currently+debugging+something%2C+probably" />
+</div>
+<img src="assets/divider.svg" width="100%" />
 
 </div>
 
