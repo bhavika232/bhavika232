@@ -1,59 +1,86 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="bhavika banner" />
+# hii, i'm Bhavika 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=18&duration=3200&pause=900&color=D9789F&center=true&vCenter=true&width=600&lines=building+things+to+understand+them;full-stack+%2B+computer+vision+%2B+backend;currently+debugging+something%2C+probably" />
+### computer science student at manipal institute of technology
+
+building software • learning by building • turning ideas into products
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Computer+Vision+Enthusiast;Building+with+Java,+Python+%26+TypeScript;Always+Learning+Something+New" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+---
 
-## ‎ 📓 about me
+## about me
 
-- 💻 entering third year of CS @ MIT Manipal
-- 🌱 currently learning full-stack dev — Next.js, NestJS, PostgreSQL
-- 🧠 into backend engineering, computer vision, and understanding systems under the hood
-- 🚀 I build projects to figure out how things work, not just to get them running
-- ☕ probably debugging something right now
+- 💻 CS student entering my third year at MIT, Manipal
+- 🌱 Currently learning full-stack development with **Next.js, NestJS & PostgreSQL**
+- 🧠 Interested in backend engineering, computer vision and software architecture
+- 🚀 Building projects to understand how systems work under the hood
+- ☕ Probably debugging something right now
 
-<img src="assets/divider.svg" width="100%" />
+---
 
-## ‎ 🔖 featured projects
+## featured projects
 
-> **🎤 AuraScore**
-> AI-powered mock interview platform, full frontend ↔ backend integration
+### 🎤 AuraScore
+AI-powered mock interview platform with frontend-backend integration and API communication.
 
-> **☁️ CloudOptim**
-> Cloud cost optimization dashboard, AWS + anomaly detection — *Top 20/76, Tech Solstice Hackathon 2026*
+### ☁️ CloudOptim
+Cloud cost optimization dashboard built using AWS services and anomaly detection techniques.
 
-> **✍️ AirDraw**
-> Gesture-controlled virtual drawing app, built with OpenCV + MediaPipe
+### ✍️ AirDraw
+Gesture-controlled virtual drawing application built using OpenCV and MediaPipe.
 
-> **🎧 Gesture Spotify Controller**
-> Control playback entirely through hand gestures
+### 🎵 VibePlayer
+Offline Spotify-inspired desktop music player built with Java and JavaFX.
 
-> **🎵 VibePlayer**
-> Offline, Spotify-inspired desktop music player, built with Java + JavaFX
+### 🎧 Gesture Spotify Controller
+Control Spotify playback entirely through real-time hand gestures.
 
-<img src="assets/divider.svg" width="100%" />
+---
 
-## ‎ 🧵 tech stack
+## tech stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge)
+
+### Databases & APIs
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
+---
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,postgres,c,react,nextjs,nestjs,django,flask,git,github,aws&theme=light" />
-</div>
 
-<img src="assets/divider.svg" width="100%" />
+### github stats
 
-## ‎ 📊 github, at a glance
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavika232&show_icons=true&hide_border=true&theme=transparent"/>
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavika232&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9789F&text_color=6B4F4F&icon_color=F0A8C4&hide_rank=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavika232&layout=compact&hide_border=true&bg_color=00000000&title_color=D9789F&text_color=6B4F4F&langs_count=8" />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavika232&layout=compact&hide_border=true&theme=transparent"/>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D4&height=100&section=footer&text=✿%20always%20tinkering%20with%20something&fontColor=6B4F4F&fontSize=18&animation=fadeIn" width="100%"/>
 </div>
