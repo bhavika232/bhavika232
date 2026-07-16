@@ -13,17 +13,16 @@ building software • learning by building • turning ideas into products
 
 ---
 
-## about me
+## About Me
 
-- 💻 CS student entering my third year at MIT, Manipal
+- 💻 CS student entering my third year at MIT,Bangalore
 - 🌱 Currently learning full-stack development with **Next.js, NestJS & PostgreSQL**
 - 🧠 Interested in backend engineering, computer vision and software architecture
 - 🚀 Building projects to understand how systems work under the hood
-- ☕ Probably debugging something right now
 
 ---
 
-## featured projects
+## Projects
 
 ### 🎤 AuraScore
 AI-powered mock interview platform with frontend-backend integration and API communication.
@@ -42,7 +41,7 @@ Control Spotify playback entirely through real-time hand gestures.
 
 ---
 
-## tech stack
+## Tech Stack
 
 ### Languages
 
@@ -76,7 +75,3 @@ Control Spotify playback entirely through real-time hand gestures.
 
 ---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhavika232&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhavika232&layout=compact&theme=radical&hide_border=true"/>
-</p>
