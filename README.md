@@ -6,7 +6,7 @@
 
 building software • learning by building • turning ideas into products
 
-src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=18&duration=3200&pause=900&color=D9789F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Vision+Enthusiast%2C+probably" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Vision+Enthusiast;Building+with+Java,+Python+%26+TypeScript;Always+Learning+Something+New" />
 </div>
 
 </div>
@@ -78,10 +78,8 @@ Control Spotify playback entirely through real-time hand gestures.
 
 <div align="center">
 
-### github stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavika232&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavika232&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavika232&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavika232&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
