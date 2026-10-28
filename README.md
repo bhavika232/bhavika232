@@ -1,34 +1,34 @@
-<div align="center">
-
 # hii, i'm Bhavika 👋
 
-### computer science student at manipal institute of technology
+computer science student at manipal institute of technology
 
 building software • learning by building • turning ideas into products
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=18&duration=3200&pause=900&color=D9789F&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Vision;Building+with+Java,+Python+%26+TypeScript" />
-</div>
-
-</div>
 
 ---
 
 ## About Me
 
-- 💻 CS student entering my third year at MIT,Bangalore
-- 🌱 Currently learning full-stack development with **Next.js, NestJS & PostgreSQL**
-- 🧠 Interested in backend engineering, computer vision and software architecture
+- 💻 CS student (cybersecurity specialization) in my third year at MIT, Bengaluru
+- 🏢 Recently interned at **InMobi** as a Software Development Engineer, working with React, NestJS & PostgreSQL
+- 🧠 Interested in backend engineering, AI security, computer vision and software architecture
+- 🔬 Working on a faculty-supervised research project on self-healing AI for medical imaging
 - 🚀 Building projects to understand how systems work under the hood
 
 ---
 
 ## Projects
 
+### 🛡️ GateZero (in progress)
+Security gateway for LLM agents. It sits between the agent and its MCP tools, blocks anything not explicitly allowed, and validates tool arguments. Built with FastAPI, PostgreSQL and React.
+
+### 🧬 Self-Healing AI for Brain-Tumor MRI Detection (research)
+Faculty-supervised research on recovering a medical-imaging model from data-poisoning attacks without retraining from scratch. I'm working on the detect → localise → unlearn → repair → verify pipeline.
+
 ### 🎤 AuraScore
-AI-powered mock interview platform with frontend-backend integration and API communication.
+AI-powered mock interview platform that scores your confidence from video using MediaPipe, OpenCV and scikit-learn, with a frontend-backend setup and API communication.
 
 ### ☁️ CloudOptim
-Cloud cost optimization dashboard built using AWS services and anomaly detection techniques.
+Cloud cost optimization dashboard built with FastAPI, boto3, React and Chart.js. Uses AWS CloudWatch metrics and Isolation Forest anomaly detection to flag unusual costs. Top 20 out of 70+ teams.
 
 ### ✍️ AirDraw
 Gesture-controlled virtual drawing application built using OpenCV and MediaPipe.
@@ -43,35 +43,22 @@ Control Spotify playback entirely through real-time hand gestures.
 
 ## Tech Stack
 
-### Languages
+**Languages:** Python, Java, JavaScript, TypeScript, C, SQL
 
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+**Frontend & Backend:** React, Next.js, NestJS, FastAPI, Flask, Django, JavaFX
 
-### Frameworks
+**Databases & APIs:** PostgreSQL, TypeORM, Swagger, REST APIs
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge)
+**AI / ML:** OpenCV, MediaPipe, NumPy, scikit-learn
 
-### Databases & APIs
+**AI Security:** MCP, LLM agent tool-call security, prompt-injection detection, data-poisoning defense
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+**Cloud & Tools:** AWS (CloudWatch, EC2, S3), boto3, Git, GitHub
 
 ---
 
+## Certifications
+
+- Meta Full Stack Developer Professional Certificate
+- Crash Course on Python
+- Fundamentals of Java Programming
