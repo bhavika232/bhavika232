@@ -1,7 +1,5 @@
 # hii, I'm Bhavika!
 
----
-
 ## About Me
 
 - 💻 CS student (cybersecurity specialization) in my third year at MIT, Bengaluru
@@ -39,22 +37,49 @@ Control Spotify playback entirely through real-time hand gestures.
 
 ## Tech Stack
 
-**Languages:** Python, Java, JavaScript, TypeScript, C, SQL
+### Languages
 
-**Frontend & Backend:** React, Next.js, NestJS, FastAPI, Flask, Django, JavaFX
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Databases & APIs:** PostgreSQL, TypeORM, Swagger, REST APIs
+### Frontend & Backend
 
-**AI / ML:** OpenCV, MediaPipe, NumPy, scikit-learn
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logoColor=white)
 
-**AI Security:** MCP, LLM agent tool-call security, prompt-injection detection, data-poisoning defense
+### Databases & APIs
 
-**Cloud & Tools:** AWS (CloudWatch, EC2, S3), boto3, Git, GitHub
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-D9789F?style=for-the-badge&logoColor=white)
 
----
+### AI / ML
 
-## Certifications
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-- Meta Full Stack Developer Professional Certificate
-- Crash Course on Python
-- Fundamentals of Java Programming
+### AI Security
+
+![MCP](https://img.shields.io/badge/MCP-D9789F?style=for-the-badge&logoColor=white)
+![LLM Agent Security](https://img.shields.io/badge/LLM_Agent_Security-B5446E?style=for-the-badge&logoColor=white)
+![Prompt Injection Detection](https://img.shields.io/badge/Prompt_Injection_Detection-8E44AD?style=for-the-badge&logoColor=white)
+![Data Poisoning Defense](https://img.shields.io/badge/Data_Poisoning_Defense-6C3483?style=for-the-badge&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![boto3](https://img.shields.io/badge/boto3-232F3E?style=for-the-badge&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
