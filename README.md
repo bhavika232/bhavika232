@@ -1,4 +1,5 @@
-# hii, i'm Bhavika 👋
+# hii, I'm Bhavika!
+
 ---
 
 ## About Me
