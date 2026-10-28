@@ -1,7 +1,4 @@
 # hii, i'm Bhavika 👋
-
-# computer science student at manipal institute of technology
-
 ---
 
 ## About Me
