@@ -1,8 +1,6 @@
 # hii, i'm Bhavika 👋
 
-computer science student at manipal institute of technology
-
-building software • learning by building • turning ideas into products
+# computer science student at manipal institute of technology
 
 ---
 
